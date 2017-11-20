@@ -1,0 +1,135 @@
+{
+"frames": {
+	"zombie1_0.png": {
+		"frame": {"x":0, "y":0, "w":100, "h":106},
+		"spriteSourceSize": {"x":32,"y":12,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_back_0.png": {
+		"frame": {"x":99, "y":107, "w":98, "h":134},
+		"spriteSourceSize": {"x":8,"y":12,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_back_1.png": {
+		"frame": {"x":0, "y":373, "w":98, "h":133},
+		"spriteSourceSize": {"x":8,"y":12,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_back_2.png": {
+		"frame": {"x":0, "y":507, "w":98, "h":133},
+		"spriteSourceSize": {"x":8,"y":12,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_back_3.png": {
+		"frame": {"x":198, "y":0, "w":98, "h":135},
+		"spriteSourceSize": {"x":7,"y":12,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_back_4.png": {
+		"frame": {"x":99, "y":242, "w":98, "h":133},
+		"spriteSourceSize": {"x":8,"y":12,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_back_5.png": {
+		"frame": {"x":99, "y":376, "w":98, "h":133},
+		"spriteSourceSize": {"x":8,"y":12,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_front_0.png": {
+		"frame": {"x":198, "y":404, "w":97, "h":132},
+		"spriteSourceSize": {"x":14,"y":16,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_front_1.png": {
+		"frame": {"x":99, "y":510, "w":98, "h":131},
+		"spriteSourceSize": {"x":14,"y":16,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_front_2.png": {
+		"frame": {"x":198, "y":271, "w":98, "h":132},
+		"spriteSourceSize": {"x":14,"y":16,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_front_3.png": {
+		"frame": {"x":198, "y":136, "w":98, "h":134},
+		"spriteSourceSize": {"x":14,"y":16,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_front_4.png": {
+		"frame": {"x":0, "y":239, "w":98, "h":133},
+		"spriteSourceSize": {"x":14,"y":15,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_front_5.png": {
+		"frame": {"x":0, "y":107, "w":98, "h":131},
+		"spriteSourceSize": {"x":14,"y":16,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_left_0.png": {
+		"frame": {"x":297, "y":131, "w":94, "h":129},
+		"spriteSourceSize": {"x":10,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_left_1.png": {
+		"frame": {"x":393, "y":0, "w":94, "h":130},
+		"spriteSourceSize": {"x":10,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_left_2.png": {
+		"frame": {"x":392, "y":131, "w":94, "h":130},
+		"spriteSourceSize": {"x":11,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_left_3.png": {
+		"frame": {"x":296, "y":404, "w":95, "h":131},
+		"spriteSourceSize": {"x":11,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_left_4.png": {
+		"frame": {"x":297, "y":0, "w":95, "h":130},
+		"spriteSourceSize": {"x":10,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_left_5.png": {
+		"frame": {"x":297, "y":261, "w":94, "h":130},
+		"spriteSourceSize": {"x":10,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_right_0.png": {
+		"frame": {"x":392, "y":393, "w":94, "h":128},
+		"spriteSourceSize": {"x":19,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_right_1.png": {
+		"frame": {"x":487, "y":131, "w":94, "h":129},
+		"spriteSourceSize": {"x":19,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_right_2.png": {
+		"frame": {"x":392, "y":262, "w":94, "h":130},
+		"spriteSourceSize": {"x":19,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_right_3.png": {
+		"frame": {"x":487, "y":391, "w":94, "h":131},
+		"spriteSourceSize": {"x":19,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_right_4.png": {
+		"frame": {"x":488, "y":0, "w":94, "h":130},
+		"spriteSourceSize": {"x":19,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	},
+	"zombie1_right_5.png": {
+		"frame": {"x":487, "y":261, "w":94, "h":129},
+		"spriteSourceSize": {"x":19,"y":17,"w":136,"h":152},
+		"sourceSize": {"w":136,"h":152}
+	}
+
+},
+"meta": {
+	"image": "zombie1_anim.png",
+	"size": {"w": 583, "h": 642},
+	"scale": "1"
+}
+}

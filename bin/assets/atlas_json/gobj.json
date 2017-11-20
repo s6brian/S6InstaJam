@@ -1,0 +1,40 @@
+{
+"frames": {
+	"gobj_bulletBack.png": {
+		"frame": {"x":17, "y":126, "w":15, "h":20},
+		"spriteSourceSize": {"x":0,"y":0,"w":15,"h":20},
+		"sourceSize": {"w":15,"h":20}
+	},
+	"gobj_bulletFront.png": {
+		"frame": {"x":0, "y":126, "w":16, "h":21},
+		"spriteSourceSize": {"x":0,"y":0,"w":16,"h":21},
+		"sourceSize": {"w":16,"h":21}
+	},
+	"gobj_bulletSide.png": {
+		"frame": {"x":0, "y":110, "w":23, "h":15},
+		"spriteSourceSize": {"x":0,"y":0,"w":23,"h":15},
+		"sourceSize": {"w":23,"h":15}
+	},
+	"gobj_landMine_0.png": {
+		"frame": {"x":0, "y":0, "w":77, "h":54},
+		"spriteSourceSize": {"x":0,"y":0,"w":77,"h":54},
+		"sourceSize": {"w":77,"h":54}
+	},
+	"gobj_landMine_1.png": {
+		"frame": {"x":0, "y":55, "w":77, "h":54},
+		"spriteSourceSize": {"x":0,"y":0,"w":77,"h":54},
+		"sourceSize": {"w":77,"h":54}
+	},
+	"gobj_shadow.png": {
+		"frame": {"x":78, "y":0, "w":73, "h":43},
+		"spriteSourceSize": {"x":0,"y":0,"w":73,"h":43},
+		"sourceSize": {"w":73,"h":43}
+	}
+
+},
+"meta": {
+	"image": "gobj.png",
+	"size": {"w": 152, "h": 148},
+	"scale": "1"
+}
+}

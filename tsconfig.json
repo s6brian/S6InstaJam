@@ -1,0 +1,9 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "none",
+		"removeComments": true,
+		"outFile": "bin/js/s6instajam.js",
+		"sourceMap": false
+	}
+}
